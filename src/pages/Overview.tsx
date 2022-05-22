@@ -20,7 +20,7 @@ export default function Overview({}: Props) {
         </Typography>
         <Box width="720px" height="480px" sx={{ m: '0 auto' }}>
           <video width="720" height="480" controls>
-            <source src="https://storage.googleapis.com/random-storage-staging/Sequence%2002_1.mp4" type="video/mp4" />
+            <source src="https://storage.googleapis.com/random-storage-staging/preFinal.mp4" type="video/mp4" />
           </video>
         </Box>
       </Stack>
